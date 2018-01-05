@@ -57,7 +57,7 @@ hr {border-top: 1px solid #eee;border-bottom: 1px solid #fcfcfc;}
 .printonly {display: none;}
 
 /* blog & portfolio blocks */
-.blogitem, .portfolioitem {position: relative; width: 270px; margin-bottom: 30px;}
+.blogitem, .portfolioitem {position: relative; height: 270px; margin-bottom: 30px;}
 .blogitem h3 {position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,.5); color: #fff; display: block; text-align: center; padding: 4px 10px 6px; margin-bottom: 0; font-size: 15px; line-height: 20px;}
 .portfolioitem h3 {position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,.5); color: #fff; display: block; text-align: center; padding: 4px 10px 6px; margin-bottom: 0; font-size: 15px; line-height: 20px;}
 
